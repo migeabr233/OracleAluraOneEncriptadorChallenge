@@ -1,0 +1,32 @@
+.titulo {
+  text-align: center;
+  display: block;
+  color:black;
+  margin: 1px 0;;
+}
+div,
+input {
+  text-align: center;
+  margin: 10px;
+}
+.textarea {
+  display: inline;
+  margin: 0.1px;
+}
+div,
+p {
+  color: black;
+  display: block;
+  padding: 0.1px;
+  font-weight: bold;
+  font-size: large;
+  margin: 0px;
+}
+.botones {
+  width: 125px;
+  background-color: aqua;
+  border-color: aqua;
+  border-width: 10px;
+  border-radius: 15px;
+  /* background: url("botónEncriptar.png") */
+}
