@@ -15,6 +15,7 @@ input {
 }
 div,
 p {
+  text-align: center;
   color: black;
   display: block;
   padding: 0.1px;
@@ -29,4 +30,8 @@ p {
   border-width: 10px;
   border-radius: 15px;
   /* background: url("botónEncriptar.png") */
+}
+a{
+  text-decoration: none;
+  color:blue
 }
